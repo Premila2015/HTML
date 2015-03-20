@@ -1,0 +1,6 @@
+This is a newly created file named TextFile.txt 
+The HTML folder/repo contains two files namely:
+(1) README.md
+(2) TextFile.txt
+
+
